@@ -1,0 +1,7 @@
+C:\Users\rosla\source\repos\HW05062019_SingletonWatch\HW05062019_SingletonWatch\bin\Debug\HW05062019_SingletonWatch.exe.config
+C:\Users\rosla\source\repos\HW05062019_SingletonWatch\HW05062019_SingletonWatch\bin\Debug\HW05062019_SingletonWatch.exe
+C:\Users\rosla\source\repos\HW05062019_SingletonWatch\HW05062019_SingletonWatch\bin\Debug\HW05062019_SingletonWatch.pdb
+C:\Users\rosla\source\repos\HW05062019_SingletonWatch\HW05062019_SingletonWatch\obj\Debug\HW05062019_SingletonWatch.csprojAssemblyReference.cache
+C:\Users\rosla\source\repos\HW05062019_SingletonWatch\HW05062019_SingletonWatch\obj\Debug\HW05062019_SingletonWatch.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\HW05062019_SingletonWatch\HW05062019_SingletonWatch\obj\Debug\HW05062019_SingletonWatch.exe
+C:\Users\rosla\source\repos\HW05062019_SingletonWatch\HW05062019_SingletonWatch\obj\Debug\HW05062019_SingletonWatch.pdb
